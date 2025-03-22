@@ -9,7 +9,7 @@ public class HelloWorldController {
 
 	@GetMapping(path = "/hello-world")
 	public String helloWorld() {
-		return "Hello World Alekya1";
+		return "Hello World Alerag";
 	}
 
 	@GetMapping(path = "/hello-world-bean")
